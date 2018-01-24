@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\bin\Debug\excelread.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\bin\Debug\excelread.exe
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\bin\Debug\excelread.pdb
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\bin\Debug\NPOI.dll
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\bin\Debug\NPOI.OOXML.dll
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\bin\Debug\NPOI.xml
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\obj\Debug\excelread.exe
+c:\users\admin\documents\visual studio 2015\Projects\excelread\excelread\obj\Debug\excelread.pdb
